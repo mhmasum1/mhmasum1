@@ -1,79 +1,82 @@
-# 👋 Hi, I'm Mahmudul Hasan Masum
+# 👋 Hi, I'm Mahmudul Hasan Masum  
+🚀 **Junior Full Stack MERN Developer**
 
-### Junior Full Stack MERN Developer 🚀
-
-I’m a passionate **Junior Full Stack MERN Developer** with hands-on experience building modern, scalable web applications using **React, Next.js, TypeScript, Node.js, Express, and MongoDB**.  
-I enjoy writing clean, maintainable code and continuously improving my skills through real-world projects and team collaboration.
+I’m a passionate **Junior Full Stack MERN Developer** who loves building **modern, scalable, and user-friendly web applications** using the MERN stack.  
+I focus on **clean code, performance, and continuous learning** through real-world projects and teamwork.
 
 ---
 
 ## 🧑‍💻 Current Role
-**Trainee Software Engineer**  
-📍 BizReflex (Business Reflection Informatics System)  
-🗓 December 2025 – Present  
+💼 **Trainee Software Engineer**  
+🏢 **BizReflex (Business Reflection Informatics System)**  
+🗓 **December 2025 – Present**
 
-- Working in a team-based development environment  
-- Assisting in frontend and backend development of JavaScript-based applications  
-- Practicing clean code principles and real-world software workflows  
+✨ What I do:
+- 🤝 Work in a collaborative team-based environment  
+- 🎨 Assist in frontend & backend development  
+- 🧼 Practice clean code & real-world workflows  
 
 ---
 
 ## 🛠 Tech Stack
 
-### Frontend
-- React.js, Next.js
-- TypeScript, JavaScript (ES6+)
-- HTML5, CSS3
-- Tailwind CSS
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss)
 
-### Backend
-- Node.js, Express.js
-- MongoDB
-- REST APIs
-- JWT Authentication
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
 
-### Tools & Platforms
-- Git & GitHub
-- Firebase
-- Postman
-- VS Code
-- Vercel, Netlify
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify)
 
 ---
 
 ## 🚀 Featured Project
 
-### 🌱 Digital Life Lessons (Full-Stack MERN Application)
+### 🌱 Digital Life Lessons  
+**Full-Stack MERN Application**
 
-A full-stack platform for creating, saving, and sharing **life lessons and personal growth insights**, with secure authentication and premium content access.
+A feature-rich platform for creating, saving, and sharing **life lessons & personal growth insights**, with secure authentication and premium content access.
 
-**Key Features:**
-- Email/Password & Google authentication
-- JWT-secured REST APIs
-- Role-based access (User / Admin)
-- Public & private content with free vs premium access
-- Stripe one-time payment for lifetime premium membership
-- Like, save, comment, report, search, filter, sort & pagination
-- User & admin dashboards for analytics and moderation
+✨ **Highlights**
+- 🔐 Email/Password & Google Authentication  
+- 🛡 JWT-secured REST APIs  
+- 👥 Role-based access (User / Admin)  
+- 💎 Free vs Premium content system  
+- 💳 Stripe one-time lifetime payment  
+- ❤️ Like, Save, Comment, Report  
+- 🔍 Search, Filter, Sort & Pagination  
+- 📊 User & Admin Dashboards  
 
-🔗 **Live Demo:** https://digital-life-lessons-b2d6b.web.app
-💻 **Client Repo:**https://github.com/mhmasum1/digital-life-lessons
-🧠 **Server Repo:**https://github.com/mhmasum1/digital-life-lessons-server
+🔗 **Live Demo:** https://digital-life-lessons-b2d6b.web.app  
+💻 **Client Repo:** https://github.com/mhmasum1/digital-life-lessons  
+🧠 **Server Repo:** https://github.com/mhmasum1/digital-life-lessons-server  
 
 ---
 
 ## 📜 Certification
-- **MERN Stack Web Development** – Programming Hero  
-  *(June – December 2025)*
+🎓 **MERN Stack Web Development** – Programming Hero  
+📆 *June – December 2025*
 
 ---
 
 ## 🤝 Soft Skills
-- Communication  
-- Problem Solving  
-- Team Collaboration  
-- Time Management  
-- Quick Learning & Adaptability  
+✅ Communication  
+✅ Problem Solving  
+✅ Team Collaboration  
+✅ Time Management  
+✅ Quick Learning & Adaptability  
 
 ---
 
@@ -82,14 +85,13 @@ A full-stack platform for creating, saving, and sharing **life lessons and perso
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mhmasum1&theme=tokyonight)
 
-
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: **mhmasum231@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/hasanmasum
-- 🧑‍💻 GitHub: [github.com/mhmasum1](https://github.com/mhmasum1)
+📧 **Email:** mhmasum231@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/hasanmasum  
+🧑‍💻 **GitHub:** https://github.com/mhmasum1  
 
 ---
 
-⭐ *I’m open to learning, collaboration, and junior developer opportunities.*
+⭐ *Open to junior developer roles, learning opportunities, and collaboration.*
