@@ -80,13 +80,6 @@ A feature-rich platform for creating, saving, and sharing **life lessons & perso
 
 ---
 
-## 📊 GitHub Stats
-![Masum's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmasum1&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=mhmasum1&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 📧 **Email:** mhmasum231@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/hasanmasum  
