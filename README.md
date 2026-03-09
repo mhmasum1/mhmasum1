@@ -71,11 +71,14 @@ I focus on **clean code, performance, and continuous learning** through real-wor
 
 # 📊 GitHub Stats
 
-![Masum GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmasum1&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mhmasum1&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmasum1&layout=compact&theme=tokyonight"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmasum1&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mhmasum1&theme=tokyonight)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=mhmasum1&theme=tokyonight"/>
+</p>
 
 ---
 
