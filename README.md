@@ -8,10 +8,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&color=38BDF8&center=true&vCenter=true&width=700&lines=Mahmudul+Hasan+Masum;Junior+Full+Stack+MERN+Developer;React+Next.js+Node.js+MongoDB" />
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&color=38BDF8&center=true&vCenter=true&width=700&lines=Mahmudul+Hasan+Masum;Junior+Full+Stack+MERN+Developer;React+Next.js+Node.js+MongoDB" />
-</p>
-
 # 👋 Hi, I'm Mahmudul Hasan Masum
 🚀 **Junior Full Stack MERN Developer**
 
