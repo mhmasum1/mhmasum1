@@ -1,24 +1,51 @@
-# 👋 Hi, I'm Mahmudul Hasan Masum  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0c1df22e-325e-4fed-b2fc-5dae45796948" width="100%" alt="Mahmudul Hasan Masum Banner"/>
+</p>
+
+<br>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&color=38BDF8&center=true&vCenter=true&width=700&lines=Mahmudul+Hasan+Masum;Junior+Full+Stack+MERN+Developer;React+Next.js+Node.js+MongoDB" />
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&color=38BDF8&center=true&vCenter=true&width=700&lines=Mahmudul+Hasan+Masum;Junior+Full+Stack+MERN+Developer;React+Next.js+Node.js+MongoDB" />
+</p>
+
+# 👋 Hi, I'm Mahmudul Hasan Masum
 🚀 **Junior Full Stack MERN Developer**
 
-I’m a passionate **Junior Full Stack MERN Developer** who loves building **modern, scalable, and user-friendly web applications** using the MERN stack.  
+
+I’m a passionate **Full Stack MERN Developer** who loves building **modern, scalable, and user-friendly web applications** using the MERN stack.
+
 I focus on **clean code, performance, and continuous learning** through real-world projects and teamwork.
 
 ---
 
-## 🧑‍💻 Current Role
+# 👨‍💻 About Me
+
+- 💼 **Trainee Software Engineer at BizReflex**
+- 🌱 Currently exploring **Next.js and scalable backend architecture**
+- 🚀 Building **full stack MERN applications**
+- 🤝 Open to **collaboration and learning opportunities**
+
+---
+
+# 🧑‍💻 Current Role
+
 💼 **Trainee Software Engineer**  
 🏢 **BizReflex (Business Reflection Informatics System)**  
 🗓 **December 2025 – Present**
 
-✨ What I do:
-- 🤝 Work in a collaborative team-based environment  
+✨ What I do
+
+- 🤝 Work in a collaborative team environment  
 - 🎨 Assist in frontend & backend development  
-- 🧼 Practice clean code & real-world workflows  
+- 🧼 Follow clean code & real-world workflows  
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
@@ -42,36 +69,53 @@ I focus on **clean code, performance, and continuous learning** through real-wor
 
 ---
 
-## 🚀 Featured Project
+# 📊 GitHub Stats
 
-### 🌱 Digital Life Lessons  
-**Full-Stack MERN Application**
+![Masum GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmasum1&show_icons=true&theme=tokyonight)
 
-A feature-rich platform for creating, saving, and sharing **life lessons & personal growth insights**, with secure authentication and premium content access.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmasum1&layout=compact&theme=tokyonight)
 
-✨ **Highlights**
+![GitHub Streak](https://streak-stats.demolab.com?user=mhmasum1&theme=tokyonight)
+
+---
+
+# 🚀 Featured Project
+
+## 🌱 Digital Life Lessons
+
+A **full-stack MERN application** where users can create, save, and share life lessons and personal growth insights.
+
+### ✨ Key Features
+
 - 🔐 Email/Password & Google Authentication  
-- 🛡 JWT-secured REST APIs  
-- 👥 Role-based access (User / Admin)  
-- 💎 Free vs Premium content system  
-- 💳 Stripe one-time lifetime payment  
+- 🛡 JWT Secured REST APIs  
+- 👥 Role-based Access (User / Admin)  
+- 💎 Free vs Premium Content System  
+- 💳 Stripe Lifetime Payment  
 - ❤️ Like, Save, Comment, Report  
 - 🔍 Search, Filter, Sort & Pagination  
-- 📊 User & Admin Dashboards  
+- 📊 User & Admin Dashboard  
 
-🔗 **Live Demo:** https://digital-life-lessons-b2d6b.web.app  
-💻 **Client Repo:** https://github.com/mhmasum1/digital-life-lessons  
-🧠 **Server Repo:** https://github.com/mhmasum1/digital-life-lessons-server  
+🔗 **Live Demo**  
+https://digital-life-lessons-b2d6b.web.app
+
+💻 **Client Repo**  
+https://github.com/mhmasum1/digital-life-lessons
+
+🧠 **Server Repo**  
+https://github.com/mhmasum1/digital-life-lessons-server
 
 ---
 
-## 📜 Certification
+# 📜 Certification
+
 🎓 **MERN Stack Web Development** – Programming Hero  
-📆 *June – December 2025*
+📆 June – December 2025
 
 ---
 
-## 🤝 Soft Skills
+# 🤝 Soft Skills
+
 ✅ Communication  
 ✅ Problem Solving  
 ✅ Team Collaboration  
@@ -80,11 +124,18 @@ A feature-rich platform for creating, saving, and sharing **life lessons & perso
 
 ---
 
-## 📫 Connect With Me
-📧 **Email:** mhmasum231@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/hasanmasum  
-🧑‍💻 **GitHub:** https://github.com/mhmasum1  
+# 🌐 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://mahmudulhasan.vercel.app)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hasanmasum)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/mhmasum1)
+
+📧 **Email:** mhmasum231@gmail.com
 
 ---
 
-⭐ *Open to junior developer roles, learning opportunities, and collaboration.*
+![Profile views](https://komarev.com/ghpvc/?username=mhmasum1&label=Profile%20views&color=0e75b6&style=flat)
+
+⭐ Open to **Junior Developer roles, collaboration, and learning opportunities**
